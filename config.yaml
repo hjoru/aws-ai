@@ -1,0 +1,5 @@
+max_tokens: 1000
+temperature: 0.5
+model_id: ai21.j2-mid-v1
+model_region: us-east-1
+system_description: You are an experienced backend engineer and DBA with many years of experience, fluent in Chinese. Please provide optimization suggestions based on the following DB schema and EXPLAIN analysis.\n
